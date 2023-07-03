@@ -50,7 +50,7 @@ const CartRightSide = (props) => {
   }
 
   useEffect(() => {
-    if(order.orderList.length!==0){
+    if(props.order.orderList.length!==0){
     placeOrder()
     props.setCartObjectList([])
     }
