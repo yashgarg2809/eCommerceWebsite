@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/eCommerceWebsite/static/css/main.8173455b.css",
+    "main.js": "/eCommerceWebsite/static/js/main.c1631f24.js",
+    "static/js/787.a91053ce.chunk.js": "/eCommerceWebsite/static/js/787.a91053ce.chunk.js",
+    "static/media/banner2women.jpg": "/eCommerceWebsite/static/media/banner2women.2d0be04fc3ebd2dfdc38.jpg",
+    "static/media/banner3male.jpg": "/eCommerceWebsite/static/media/banner3male.c88a44cb716a78cdd255.jpg",
+    "static/media/banner4kids.jpg": "/eCommerceWebsite/static/media/banner4kids.f46bdc75287f6e3023c0.jpg",
+    "static/media/banner1.jpg": "/eCommerceWebsite/static/media/banner1.83e8873e0963d99709c9.jpg",
+    "static/media/banner5beauty.jpg": "/eCommerceWebsite/static/media/banner5beauty.78eab97e28183375dcd7.jpg",
+    "static/media/Brown Check.webp": "/eCommerceWebsite/static/media/Brown Check.01efddd275f1b0de8916.webp",
+    "static/media/Red Check.webp": "/eCommerceWebsite/static/media/Red Check.ef953d601609d220f888.webp",
+    "static/media/Black Solid.webp": "/eCommerceWebsite/static/media/Black Solid.67c03e774c674a367c04.webp",
+    "static/media/purple.jpg": "/eCommerceWebsite/static/media/purple.75f6ce8520e1b17cf863.jpg",
+    "static/media/mc.webp": "/eCommerceWebsite/static/media/mc.ac0f5fbd9d18cb243a52.webp",
+    "static/media/vlue.jpg": "/eCommerceWebsite/static/media/vlue.6d894a4c486b552b7d66.jpg",
+    "static/media/black pants.jpg": "/eCommerceWebsite/static/media/black pants.c1a6430abb10283336d4.jpg",
+    "static/media/Light Brown.jpg": "/eCommerceWebsite/static/media/Light Brown.f158705504f13371cfad.jpg",
+    "static/media/green.jpg": "/eCommerceWebsite/static/media/green.bd61da5f219315913296.jpg",
+    "static/media/fastDel.jpg": "/eCommerceWebsite/static/media/fastDel.17daf0058a82b44386d0.jpg",
+    "static/media/Red.webp": "/eCommerceWebsite/static/media/Red.7118e298a873ccacba2f.webp",
+    "static/media/easyreturns.jpg": "/eCommerceWebsite/static/media/easyreturns.60129a06438d6c591475.jpg",
+    "static/media/Blue.webp": "/eCommerceWebsite/static/media/Blue.afa2a7bf50d3f10cee25.webp",
+    "static/media/cart.png": "/eCommerceWebsite/static/media/cart.eca5ee08f37494f3f691.png",
+    "static/media/authentic.jpg": "/eCommerceWebsite/static/media/authentic.314cc84cc1655b437db7.jpg",
+    "static/media/green.webp": "/eCommerceWebsite/static/media/green.ee9062c292aa4f7f4d15.webp",
+    "static/media/logo.svg": "/eCommerceWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eCommerceWebsite/index.html",
+    "main.8173455b.css.map": "/eCommerceWebsite/static/css/main.8173455b.css.map",
+    "main.c1631f24.js.map": "/eCommerceWebsite/static/js/main.c1631f24.js.map",
+    "787.a91053ce.chunk.js.map": "/eCommerceWebsite/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8173455b.css",
+    "static/js/main.c1631f24.js"
+  ]
+}
