@@ -1,0 +1,20 @@
+.custom-class {
+  display: none;
+}
+@media (max-width: 1800px) {
+  p {
+    font-size: 1rem;
+  }
+  .setHeight{
+    height: 80vh;
+  }
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 0.3rem;
+  }
+  .setHeight {
+    height: 23vh;
+  }
+}
